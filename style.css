@@ -2,4 +2,14 @@ body {
     display: grid;
     justify-content: center;
     text-align: center;
+    background: rgb(57, 114, 149);
+}
+
+#link-insta{
+    color: lightgrey;
+}
+
+#foto {
+    width: 185px;
+    /* height: 185px; */
 }
