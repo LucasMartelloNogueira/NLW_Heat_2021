@@ -7,9 +7,5 @@ body {
 
 #link-insta{
     color: lightgrey;
-}
-
-#foto {
-    width: 185px;
-    /* height: 185px; */
+    text-decoration: none;
 }
