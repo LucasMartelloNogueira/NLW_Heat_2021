@@ -1,11 +1,19 @@
+html, body {
+    height: 100%;
+}
+
 body {
     display: grid;
-    justify-content: center;
-    text-align: center;
-    background: rgb(57, 114, 149);
+    place-items: center;
+}
+
+main {
+    background: url(images/bg.png);
+    width: 375px;
+    height: 812px;
 }
 
 #link-insta{
-    color: lightgrey;
+    /* color: lightgrey; */
     text-decoration: none;
 }
