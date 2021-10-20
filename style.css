@@ -8,7 +8,7 @@ body {
 }
 
 main {
-    background: url(images/bg.png);
+    background: url(images/background.svg);
     width: 375px;
     height: 812px;
 }
